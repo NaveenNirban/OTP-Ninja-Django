@@ -1,6 +1,6 @@
 # OTP Ninja
 ## _Universal OTP authentication solution_ ##
-[![Build Status](https://github.com/NaveenNirban/OTP-Ninja-Django/build-version.svg)](https://github.com/NaveenNirban/OTP-Ninja-Django/build-version.svg)
+[![Build Status](https://raw.githubusercontent.com/NaveenNirban/OTP-Ninja-Django/main/otpmicroservice/build-version.svg)](https://raw.githubusercontent.com/NaveenNirban/OTP-Ninja-Django/main/otpmicroservice/build-version.svg)
 
 OTP Ninja is a django backed, multi-tenant, micro-service based, universal otp authentication solution.
 
