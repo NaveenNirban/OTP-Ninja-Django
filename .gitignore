@@ -1,0 +1,10 @@
+api/migrations/
+venv
+api/__pycache__
+logs
+otpmicroservice/__pycache__
+.env
+static
+otpmicroservice/api/__pycache__/
+otpmicroservice/api/migrations/
+otpmicroservice/otpmicroservice/__pycache__/
