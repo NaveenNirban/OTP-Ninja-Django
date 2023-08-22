@@ -2,7 +2,8 @@
 ## _Universal OTP authentication solution_ ##
 [![Build Status](https://raw.githubusercontent.com/NaveenNirban/OTP-Ninja-Django/main/otpmicroservice/build-version.svg)](https://raw.githubusercontent.com/NaveenNirban/OTP-Ninja-Django/main/otpmicroservice/build-version.svg)
 
-OTP Ninja is a django backed, multi-tenant, micro-service based, universal otp authentication solution.
+OTP Ninja is a django backed, multi-tenant, micro-service based, universal otp authentication solution. I've been using this in my personal projects & its working like a charm.
+A perfect choice for startup developers who wants to minimize their efforts in microservice writings. Just let me know for any collaboration, below are my contacts.
 
 ## Features
 - Microservice architecture based application, having its own standlone apis.
@@ -92,6 +93,7 @@ Stackoverflow - https://stackoverflow.com/users/8585150/christopher-nolan
 
 ## License
 
-MIT
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
 
-**Free Software, Hell Yeah!**
+**Free Software, Under certain conditions!**
