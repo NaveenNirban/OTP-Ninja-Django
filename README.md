@@ -81,11 +81,9 @@ MYSQL Installation issues in Ubuntu - https://askubuntu.com/a/1482193/1142651
 ## Contact Info
 Feel free to ping me at any handle, I'll be happy to connect. Don't hesitate in any query, I'll be happy to help you out buddy.
 
-Email me - Naveennirbanyadav08@gmail.com
-
-Linkedin - https://linkedin.com/in/naveennirban
-
-Stackoverflow - https://stackoverflow.com/users/8585150/christopher-nolan
+1. Email me - Naveennirbanyadav08@gmail.com
+2. Linkedin - https://linkedin.com/in/naveennirban
+3. Stackoverflow - https://stackoverflow.com/users/8585150/christopher-nolan
 
 ## Future plans & collaborations
 1. Add more Bulk SMS providers templates.
